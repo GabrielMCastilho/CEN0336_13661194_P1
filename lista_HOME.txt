@@ -1,0 +1,4 @@
+total 12
+drwxr-xr-x 3 gabriel_castilho gabriel_castilho 4096 Oct  7 20:15 CEN0336-13661194-P1
+drwxr-xr-x 8 gabriel_castilho gabriel_castilho 4096 Sep  2 21:29 Trabalho-de-curso---CEN0336
+drwxr-xr-x 2 gabriel_castilho gabriel_castilho 4096 Sep  8 20:02 automacao_ceox
